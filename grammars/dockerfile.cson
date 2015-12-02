@@ -1,6 +1,6 @@
 'name': 'Dockerfile'
 'fileTypes': [
-  'Dockerfile'
+  '^Dockerfile(\\..+)?$'
 ]
 'patterns': [
   {
